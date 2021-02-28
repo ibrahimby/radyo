@@ -1,0 +1,17 @@
+{
+  "name": "djsevgilim",
+  "version": "1.0.0",
+  "description": "sevgilim",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "by ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "0.0.8",
+     "ffmpeg": "0.0.4"
+  }
+}
